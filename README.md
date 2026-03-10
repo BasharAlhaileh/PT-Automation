@@ -18,3 +18,4 @@ entrypoint: >
   apt-get install -y wkhtmltopdf && 
   n8n start"
     
+<img width="1539" height="679" alt="image" src="https://github.com/user-attachments/assets/9287a4a2-02ca-4f7c-acac-85401caf5855" />
